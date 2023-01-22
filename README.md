@@ -1,4 +1,4 @@
-# golden_test_app
+# Golde Test App Test Case
 
 ## Golden Files
 <img src= "https://raw.githubusercontent.com/appgitdev/flutter-golden-test-BDD-app/main/test/golden_test/counter_multiple_devices/goldens/increment_different_devices.png"/>
@@ -6,7 +6,6 @@
 ## Failure Files
 <img src= "https://raw.githubusercontent.com/appgitdev/flutter-golden-test-BDD-app/main/test/golden_test/counter_multiple_devices/failures/increment_different_devices_maskedDiff.png"/>
 
-Welcome to the "flutter-golden-test-BDD-app" repository by Ferdian Gunawan!
 
 This repository contains a sample application that demonstrates the use of golden tests with BDD (behavior-driven development) in a Flutter project. Golden tests are a way to test the visual appearance of widgets by comparing their output to a "golden" image. This allows developers to catch regressions in the visual design of their application, and ensure that changes to the codebase do not unintentionally alter the appearance of the app.
 
